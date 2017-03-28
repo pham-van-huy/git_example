@@ -1,1 +1,1 @@
-skipped staging are to commit
+commit cuoi
